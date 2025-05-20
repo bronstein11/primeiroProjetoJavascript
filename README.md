@@ -12,9 +12,9 @@ Ao final, o jogo mostrará quantas tentativas foram necessárias para acertar
 
 ## 🛠️ Tecnologias Utilizadas
 
-JavaScript
-HTML (para execução do script)
-Alertas e prompts nativos do navegador
+. JavaScript
+. HTML (para execução do script)
+. Alertas e prompts nativos do navegador
 
 ## 💻 Funcionalidades
 
