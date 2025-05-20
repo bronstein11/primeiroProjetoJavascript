@@ -15,4 +15,7 @@ Clone este repositório para sua máquina local
 Abra o arquivo HTML em seu navegador favorito
 Divirta-se tentando adivinhar o número secreto!
 
+
+## 🙋🏻 Autor
+
 Desenvolvido por mim (Mauricio Grass de Bronstein) como parte dos meus estudos de JavaScript.
